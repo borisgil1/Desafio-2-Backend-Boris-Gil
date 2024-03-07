@@ -124,11 +124,11 @@ const testing = new ProductManager("./productManager.json");
 //testing.getProducts();
 
 //getProductById - Devuelve producto por ID
-//console.log(testing.getProductById(2));
+//console.log(testing.getProductById(1));
 
 //updateProduct - Modifica producto
 //testing.updateProduct(1, { price: 250000 });
 
-//eleteProduct - Elimina producto
+//deleteProduct - Elimina producto
 //console.log(testing.deleteProduct(1));
 
